@@ -49,6 +49,10 @@ input[type=button]{
   text-align: center;
 }
 
+.hours_location p u a{
+  color: #3F2537;
+}
+
 .menu_rv1{
   background-color: #E6F4E6;
   border-color: #3F2537;
