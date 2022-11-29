@@ -92,4 +92,5 @@ input[type=button]{
 
 .name a {
   color: #3F2537;
+  text-decoration: none;
 }
