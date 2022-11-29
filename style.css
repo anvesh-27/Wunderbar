@@ -6,7 +6,7 @@
   text-align: left;
   color: white;
   position:relative;
-  top:110px;
+  top:85px;
 }
 .signup form input[type=text], .signup form input[type=password], .login form input[type=text], .login form input[type=password]{
   width: 100%;
@@ -34,7 +34,7 @@
   text-align: right;
   color: rgb(230, 244, 230);
   position:relative;
-  top: -245px;
+  top: -270px;
 }
 
 .heading {color: #3F2537;
