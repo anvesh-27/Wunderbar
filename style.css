@@ -174,16 +174,44 @@ footer .footer ul li a{
   border-color: black;
 }
 
-.contact_send{
-  background-color: #E6F4E6;
-  border-color: #3F2537;
-  color: #3F2537;
-  border-radius: 15px;
-  padding: 15px;
-}
-
 .jobs{
   text-align:center ;
 }
 
 .resume {margin-left: 30%;}
+
+.catering_contact input[type=text], input[type=date], input[type=time]{
+  width: 20%;
+  height: 8%;
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black
+}
+
+.catering_contact textarea{
+  width: 40%;
+  height: 25%;
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black
+}
+
+.catering_contact form p .email{
+  width: 40%;
+  height: 8%;
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black
+}
+
+.catering_contact select{
+  width: 20%;
+  height: 8%;
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black
+}
