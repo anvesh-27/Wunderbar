@@ -215,3 +215,16 @@ footer .footer ul li a{
   border-width: 2px;
   border-color: black
 }
+
+.signup_button {
+  background-color: #3F2537;
+  border-color: #07ffb9;
+  color: #07ffb9;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.signup_button:hover{
+  background-color: white;
+  color: #3F2537;
+}
