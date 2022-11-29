@@ -53,7 +53,7 @@
   color: #3F2537;
 }
 
-.menu_rv1, .contact_send{
+.f_buttons{
   background-color: #E6F4E6;
   border-color: #3F2537;
   color: #3F2537;
@@ -61,7 +61,7 @@
   padding: 10px;
 }
 
-.menu_rv1:hover{
+.f_buttons:hover{
   background-color: #3F2537;
   color: white;
 }
@@ -154,7 +154,7 @@ footer .footer ul li a{
   background-color: RoyalBlue;
 }
 
-.contact form input[type=text], .contact form select{
+.contact form input[type=text], .contact form select, .jobs form input[type=text], .jobs form select{
   background-color: #E6F4E6;
   width: 40%;
   height: 5%;
@@ -164,7 +164,7 @@ footer .footer ul li a{
   border-color: black;
 }
 
-.contact form textarea {
+.contact form textarea, .jobs form textarea {
   background-color: #E6F4E6;
   width: 40%;
   height: 23%;
@@ -180,4 +180,8 @@ footer .footer ul li a{
   color: #3F2537;
   border-radius: 15px;
   padding: 15px;
+}
+
+.jobs{
+  margin-left: 37%;
 }
