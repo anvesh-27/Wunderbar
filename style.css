@@ -122,3 +122,21 @@ footer .footer ul li a{
   color: white;
   padding: 20px;
 }
+
+.menu{
+  text-align: center;
+  border-style: double;
+  border-width: 3px;
+  border-color: rgb(61, 255, 61);
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top: 25px;
+}
+
+.menu h2{
+  color: #3F2537;
+}
+
+.menu h2 p {
+  color: #574651;
+}
