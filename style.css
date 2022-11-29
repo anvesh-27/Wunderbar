@@ -54,3 +54,30 @@ input[type=button]{
   border-color: #3F2537;
   color: #3F2537;
 }
+
+.navigations{
+  width: 100%;
+  height: 40px;
+  text-align: center;
+}
+
+.navigations ul{
+    margin-top: 0%;
+    background-color: transparent;
+}
+
+.navigations ul li{
+  list-style-type: none;
+  display: inline-block;
+}
+
+.navigations ul li a{
+  text-decoration: none;
+  color: #3F2537;
+  padding: 20px;
+}
+
+.navigations ul li:hover{
+  font-weight: bold;
+  font-size: 1.2rem;
+}
