@@ -1,0 +1,56 @@
+.signup{
+  margin-left: 20%;
+  margin-right: 60%;
+  
+  background-color: transparent;
+  text-align: left;
+  color: white;
+  position:relative;
+  top:110px;
+}
+input[type=text], input[type=password] {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+input[type=submit]{
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  background-color: red;
+  color: white;}
+
+input[type=button]{
+  background-color: blue;
+  color: white;
+  box-sizing: border-box;
+}
+
+.login {
+  margin-left: 60%;
+  margin-right: 20%;
+  background-color: transparent;
+  text-align: right;
+  color: rgb(230, 244, 230);
+  position:relative;
+  top: -214px;
+}
+
+.heading {color: #3F2537;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-family: "Futura PT";
+  text-align: center;
+  font-size: 56px
+}
+
+.hours_location{
+  text-align: center;
+}
+
+.menu_rv1{
+  background-color: #E6F4E6;
+  border-color: #3F2537;
+  color: #3F2537;
+}
