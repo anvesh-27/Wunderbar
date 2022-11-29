@@ -53,6 +53,13 @@ input[type=button]{
   background-color: #E6F4E6;
   border-color: #3F2537;
   color: #3F2537;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.menu_rv1:hover{
+  background-color: #3F2537;
+  color: white;
 }
 
 .navigations{
