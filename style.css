@@ -40,9 +40,9 @@
 .heading {color: #3F2537;
   font-weight: 400;
   text-transform: uppercase;
-  font-family: "Futura PT";
+  font-family: "Bradley Hand ITC";
   text-align: center;
-  font-size: 56px
+  font-size: 50px
 }
 
 .hours_location{
@@ -226,4 +226,17 @@ footer .footer ul li a{
 .signup_button:hover{
   background-color: white;
   color: #3F2537;
+}
+
+body{
+  color: rgb(63, 37, 55)
+}
+
+.name center a{
+  color: #3F2537;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-family: "Cabin sketch";
+  text-align: center;
+  font-size: 76px;
 }
