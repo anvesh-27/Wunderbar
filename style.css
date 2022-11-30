@@ -227,17 +227,3 @@ footer .footer ul li a{
   background-color: white;
   color: #3F2537;
 }
-
-.rv1 {
-  background-color: red;
-  color: #fff;
-  font-weight: bolder;
-  animation: example 4s infinite;
-  border-radius: 20px;
-  padding: 10px;
-}
-@keyframes example {
-  33.33%   {background-color: red;}
-  66.66%  {background-color: #eba434;}
-  99.99%  {background-color: rgb(255, 0, 191);}
-}
