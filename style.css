@@ -33,7 +33,7 @@
   margin-right: 20%;
   background-color: transparent;
   text-align: right;
-  color: rgb(230, 244, 230);
+  color: #f4f5f0;
   position:relative;
   top: -270px;
 }
@@ -155,7 +155,7 @@ footer .footer ul li a{
 }
 
 .contact form input[type=text], .contact form select, .jobs form input[type=text], .jobs form select{
-  background-color: #E6F4E6;
+  background-color: #f4f5f0;
   width: 40%;
   height: 5%;
   box-sizing: border-box;
@@ -165,7 +165,7 @@ footer .footer ul li a{
 }
 
 .contact form textarea, .jobs form textarea {
-  background-color: #E6F4E6;
+  background-color: #f4f5f0;
   width: 40%;
   height: 23%;
   box-sizing: border-box;
